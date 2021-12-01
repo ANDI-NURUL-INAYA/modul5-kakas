@@ -7,6 +7,6 @@
     <title>controller baru </title>
 </head>
 <body>
-   saya debian
+   Andi Nurul Inaya
 </body>
 </html>
